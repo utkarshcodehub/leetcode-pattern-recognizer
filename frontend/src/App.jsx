@@ -2,7 +2,7 @@
 import { useState } from "react";
 import { PATTERNS } from "./patterns";
 
-const API = "http://localhost:8000";
+const API = "https://leetcode-pattern-recognizer-backend.onrender.com";
 
 const DIFF_COLOR = { Easy: "#3ddc97", Medium: "#f5a623", Hard: "#ff6b6b" };
 
